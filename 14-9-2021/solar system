@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head><title>solar system</title></head> 
+<style>
+body{
+background-image: url('src/img/planets.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+h1{
+color: rgb(255, 251, 0);  
+}
+img{
+border: 3px solid rgb(38, 222, 255);
+}
+a:link {
+color:  rgb(255, 255, 255);
+background-color: transparent;
+text-decoration: none;
+}
+        
+a:visited {
+color: rgb(0, 255, 255);
+background-color: transparent;
+text-decoration: none;
+}
+        
+a:hover {
+color : blue;
+background-color: transparent;
+text-decoration: underline;
+}
+        
+a:active {
+color: rgb(255, 145, 1);
+background-color: transparent;
+text-decoration: underline;
+}
+</style>
+<body>
+<marquee><h1><em>Solar System</em></h1></marquee>   
+<center>
+<img src="src/img/sum.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Sun</ins></em></p></h1>
+</center>   
+<center>
+<img src="src/img/venus.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Mercury</ins></em></p></h1>
+</center> 
+<center>
+<img src="src/img/mercury.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Venus</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/earth.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Earth</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/mars.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Mars</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/jupiter.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Jupiter</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/saturn.webp" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Saturn</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/uranus.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Uranus</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/neptune.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Neptune</ins></em></p></h1>
+</center>
+<center>
+<img src="src/img/plute.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><p><em><ins>Plute</ins></em></p></h1>
+</center>
+<center>
+<a href="https://github.com/aksharaHIREA">visit to my github</a>    
+</center>
+</body>
+</html>
