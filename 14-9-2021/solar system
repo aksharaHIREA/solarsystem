@@ -50,55 +50,55 @@ text-decoration: underline;
 <img src="src/img/venus.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Mercury</ins></em></p></h1>
+<h1><p><em><ins>1.Mercury</ins></em></p></h1>
 </center> 
 <center>
 <img src="src/img/mercury.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Venus</ins></em></p></h1>
+<h1><p><em><ins>2.Venus</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/earth.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Earth</ins></em></p></h1>
+<h1><p><em><ins>3.Earth</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/mars.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Mars</ins></em></p></h1>
+<h1><p><em><ins>4.Mars</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/jupiter.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Jupiter</ins></em></p></h1>
+<h1><p><em><ins>5.Jupyter</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/saturn.webp" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Saturn</ins></em></p></h1>
+<h1><p><em><ins>6.Saturn</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/uranus.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Uranus</ins></em></p></h1>
+<h1><p><em><ins>7.Uranus</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/neptune.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Neptune</ins></em></p></h1>
+<h1><p><em><ins>8.Neptune</ins></em></p></h1>
 </center>
 <center>
 <img src="src/img/plute.jpg" alt="no picture" width="400" height="300">  
 </center>
 <center>
-<h1><p><em><ins>Plute</ins></em></p></h1>
+<h1><p><em><ins>9.Pluto</ins></em></p></h1>
 </center>
 <center>
 <a href="https://github.com/aksharaHIREA">visit to my github</a>    
